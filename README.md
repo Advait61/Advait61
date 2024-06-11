@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Advait Kalpande</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=advait61&label=Profile%20views&color=0e75b6&style=flat" alt="advait61" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=advait61" alt="advait61" /></a> </p>
 
-- 🔭 I’m currently working on Front-end Web Technologies **I’m currently working on Front-end Web Technologies**
+- 🔭 **I’m currently working on Front-end Web Technologies**
 
-- 🌱 I’m currently learning MERN stack **I’m currently learning MERN stack**
+- 🌱 **I’m currently learning MERN stack**
 
-- 👯 I’m looking to collaborate on Open Source Projects **I’m looking to collaborate on Open Source Projects**
+- 👯 **I’m looking to collaborate on Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [Advait61](Advait61)
 
@@ -29,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advait61&show_icons=true&locale=en&layout=compact" alt="advait61" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advait61&show_icons=true&locale=en" alt="advait61" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advait61&" alt="advait61" /></p>
