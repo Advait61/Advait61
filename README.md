@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Advait Kalpande</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=advait61" alt="advait61" /></a> </p>
-
 - 🔭 **I’m currently working on Front-end Web Technologies**
 
 - 🌱 **I’m currently learning MERN stack**
